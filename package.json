@@ -72,7 +72,7 @@
     "chai": "^4.3.3",
     "eslint": "^7.21.0",
     "eslint-plugin-html": "^6.1.1",
-    "eslint-plugin-jsdom-internal": "link:./scripts/eslint-plugin",
+    "eslint-plugin-jsdom-internal": "file:./scripts/eslint-plugin",
     "js-yaml": "^4.0.0",
     "karma": "^6.1.1",
     "karma-browserify": "^8.0.0",
